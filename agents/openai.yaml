@@ -1,4 +1,4 @@
 interface:
   display_name: "系统化学习与教材共创"
-  short_description: "联网规划完整学习路径，核查误解并保留个人表达，逐步共创系统教材"
-  default_prompt: "使用 $systematic-learning 帮我系统学习【主题】，先检索资料、规划路径并建立教材目录。"
+  short_description: "完整规划学习路径，核查误解，吸纳个人理解与风格，重铸零基础可独立学习的教材"
+  default_prompt: "使用 $systematic-learning 帮我系统学习【主题】，规划资料与路径，复述后吸纳我的理解与风格，重铸零基础可独立学习的教材。"
